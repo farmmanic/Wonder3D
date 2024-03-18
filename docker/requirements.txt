@@ -31,6 +31,6 @@ torch_efficient_distloss
 tensorboard
 rembg
 segment_anything
-gradio==3.50.2
+gradio==4.19.2
 triton
 rich

@@ -6,7 +6,7 @@ xformers==0.0.16
 transformers>=4.37.0
 bitsandbytes==0.35.4
 decord==0.6.0
-pytorch-lightning<2
+pytorch-lightning<2.4.0
 omegaconf==2.2.3
 nerfacc==0.3.3
 trimesh==3.9.8
